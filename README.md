@@ -14,3 +14,7 @@ Trie树
 
 others:
 KahanSum
+
+未完成：
+hihocode：
+交错和
